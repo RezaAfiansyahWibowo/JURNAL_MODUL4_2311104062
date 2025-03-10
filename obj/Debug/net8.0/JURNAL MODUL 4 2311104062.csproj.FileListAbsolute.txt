@@ -1,0 +1,15 @@
+C:\Users\Pongo\source\repos\JURNAL MODUL 4\JURNAL MODUL 4\bin\Debug\net8.0\JURNAL MODUL 4 2311104062.exe
+C:\Users\Pongo\source\repos\JURNAL MODUL 4\JURNAL MODUL 4\bin\Debug\net8.0\JURNAL MODUL 4 2311104062.deps.json
+C:\Users\Pongo\source\repos\JURNAL MODUL 4\JURNAL MODUL 4\bin\Debug\net8.0\JURNAL MODUL 4 2311104062.runtimeconfig.json
+C:\Users\Pongo\source\repos\JURNAL MODUL 4\JURNAL MODUL 4\bin\Debug\net8.0\JURNAL MODUL 4 2311104062.dll
+C:\Users\Pongo\source\repos\JURNAL MODUL 4\JURNAL MODUL 4\bin\Debug\net8.0\JURNAL MODUL 4 2311104062.pdb
+C:\Users\Pongo\source\repos\JURNAL MODUL 4\JURNAL MODUL 4\obj\Debug\net8.0\JURNAL MODUL 4 2311104062.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pongo\source\repos\JURNAL MODUL 4\JURNAL MODUL 4\obj\Debug\net8.0\JURNAL MODUL 4 2311104062.AssemblyInfoInputs.cache
+C:\Users\Pongo\source\repos\JURNAL MODUL 4\JURNAL MODUL 4\obj\Debug\net8.0\JURNAL MODUL 4 2311104062.AssemblyInfo.cs
+C:\Users\Pongo\source\repos\JURNAL MODUL 4\JURNAL MODUL 4\obj\Debug\net8.0\JURNAL MODUL 4 2311104062.csproj.CoreCompileInputs.cache
+C:\Users\Pongo\source\repos\JURNAL MODUL 4\JURNAL MODUL 4\obj\Debug\net8.0\JURNAL MODUL 4 2311104062.sourcelink.json
+C:\Users\Pongo\source\repos\JURNAL MODUL 4\JURNAL MODUL 4\obj\Debug\net8.0\JURNAL MODUL 4 2311104062.dll
+C:\Users\Pongo\source\repos\JURNAL MODUL 4\JURNAL MODUL 4\obj\Debug\net8.0\refint\JURNAL MODUL 4 2311104062.dll
+C:\Users\Pongo\source\repos\JURNAL MODUL 4\JURNAL MODUL 4\obj\Debug\net8.0\JURNAL MODUL 4 2311104062.pdb
+C:\Users\Pongo\source\repos\JURNAL MODUL 4\JURNAL MODUL 4\obj\Debug\net8.0\JURNAL MODUL 4 2311104062.genruntimeconfig.cache
+C:\Users\Pongo\source\repos\JURNAL MODUL 4\JURNAL MODUL 4\obj\Debug\net8.0\ref\JURNAL MODUL 4 2311104062.dll
